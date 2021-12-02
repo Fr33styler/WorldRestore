@@ -1,0 +1,4 @@
+name: WorldRestore
+main: io.github.fr33styler.worldrestore.WorldRestore
+version: 1.0
+load: STARTUP
