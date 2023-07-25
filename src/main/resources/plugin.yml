@@ -1,0 +1,6 @@
+name: ${plugin.name}
+version: ${project.version}
+main: ${plugin.main.classpath}
+api-version: 1.15
+author: Fr33styler
+load: STARTUP
