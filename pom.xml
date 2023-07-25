@@ -7,7 +7,7 @@
 
     <groupId>ro.fr33styler.minecraft</groupId>
     <artifactId>world-restore</artifactId>
-    <version>1.0</version>
+    <version>1.01</version>
 
     <repositories>
         <repository>
